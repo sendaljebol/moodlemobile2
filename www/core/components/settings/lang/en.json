@@ -1,5 +1,6 @@
 {
     "about": "About",
+    "appname": "PPM Mobile Learning {{version}}",
     "appready": "App ready",
     "cacheexpirationtime": "Cache expiration time (miliseconds)",
     "cannotsyncoffline": "Cannot synchronize offline.",
